@@ -8,7 +8,12 @@
   },
   "dependencies": {
     "react": "16.3.1",
-    "react-native": "0.55.4"
+    "react-native": "0.55.4",
+    "react-native-chart-kit": "^1.1.6",
+    "react-native-pure-chart": "^0.0.24",
+    "react-native-responsive-linechart": "^1.4.5",
+    "react-native-svg": "^6.5.2",
+    "react-native-svg-charts": "^5.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^9.0.0",
